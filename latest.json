@@ -1,0 +1,13 @@
+
+{
+  "versionCode": 23,
+  "versionName": "1.9.1",
+  "apkUrl": "https://github.com/Binura-Weragoda/Binura-ImageToPDF-Updates/releases/download/v1.9.1/ImageToPDF-v1.9.1.apk.apk",
+  "sha256": "19dab96dab95cd4b828886ce1f2beb00f906bbbd8fbf8826c9acb38ae267f6b2",
+  "releaseNotes": [
+    "Improved PDF pinch-to-zoom smoothness.",
+    "Added optional automatic document cropping.",
+    "Preserved persistent camera flash.",
+    "Improved application stability."
+  ]
+}
