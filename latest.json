@@ -1,12 +1,11 @@
 {
-  "versionCode": 24,
-  "versionName": "1.9.2",
-  "apkUrl": "https://github.com/Binura-Weragoda/Binura-ImageToPDF-Updates/releases/download/v1.9.2/app-release.apk",
-  "sha256": "afb6944ab5d00b84f8ce63adf8025b30688bbb3c9b951bc8a6c0a5d3e87c3c5b",
+  "versionCode": 25,
+  "versionName": "1.9.3",
+  "apkUrl": "https://github.com/Binura-Weragoda/Binura-ImageToPDF-Updates/releases/download/v1.9.3/app-release.apk",
+  "sha256": "9636006ee09b049085e916c11aa0bd744220f95ce8690719f0f961d058a9a660",
   "releaseNotes": [
-    "Improved PDF viewer memory management.",
-    "Added safer page rendering limits for large and unusually sized PDF pages.",
-    "Improved cancellation of obsolete page-rendering work.",
-    "Improved PDF viewer cleanup and recovery from memory pressure."
+    "Improved PDF viewing stability and zoom handling.",
+    "Switched the in-app document camera to Google ML Kit Document Scanner.",
+    "Removed the previous custom CameraX scanner."
   ]
 }
