@@ -1,11 +1,10 @@
 {
-  "versionCode": 25,
-  "versionName": "1.9.3",
-  "apkUrl": "https://github.com/Binura-Weragoda/Binura-ImageToPDF-Updates/releases/download/v1.9.3/app-release.apk",
-  "sha256": "9636006ee09b049085e916c11aa0bd744220f95ce8690719f0f961d058a9a660",
+  "versionCode": 26,
+  "versionName": "1.9.4",
+  "apkUrl": "https://github.com/Binura-Weragoda/Binura-ImageToPDF-Updates/releases/download/v1.9.4/app-release.apk",
+  "sha256": "0e836aaf59739782f773f58d8a1344798a9bc566c598ae1d4b9cac708249eb75",
   "releaseNotes": [
-    "Improved PDF viewing stability and zoom handling.",
-    "Switched the in-app document camera to Google ML Kit Document Scanner.",
-    "Removed the previous custom CameraX scanner."
+    "Fixed PDF pinch-zoom positioning when fingers are released.",
+    "Improved zoom and scroll-position handoff after pinch gestures."
   ]
 }
