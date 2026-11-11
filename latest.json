@@ -1,10 +1,10 @@
 {
-  "versionCode": 26,
-  "versionName": "1.9.4",
-  "apkUrl": "https://github.com/Binura-Weragoda/Binura-ImageToPDF-Updates/releases/download/v1.9.4/app-release.apk",
-  "sha256": "0e836aaf59739782f773f58d8a1344798a9bc566c598ae1d4b9cac708249eb75",
+  "versionCode": 27,
+  "versionName": "1.9.5",
+  "apkUrl": "https://github.com/Binura-Weragoda/Binura-ImageToPDF-Updates/releases/download/v1.9.5/app-release.apk",
+  "sha256": "3c3b1ff5ea5b6bca6dc4436a47462872711292f9def8ba83822671af653154fa",
   "releaseNotes": [
-    "Fixed PDF pinch-zoom positioning when fingers are released.",
-    "Improved zoom and scroll-position handoff after pinch gestures."
+    "Restored the earlier PDF pinch-zoom release handling.",
+    "Restored finer page-rendering size increments and the shorter render settle delay."
   ]
 }
